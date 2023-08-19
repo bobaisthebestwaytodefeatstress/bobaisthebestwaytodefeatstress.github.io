@@ -4,6 +4,11 @@ main:
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: "https://bobaisthebestwaytodefeatstress.github.io/about/"
+    
+  - title: "Category"
+    url: "https://bobaisthebestwaytodefeatstress.github.io/category/"
+    
+    
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
