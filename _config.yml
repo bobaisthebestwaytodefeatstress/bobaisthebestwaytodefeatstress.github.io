@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "최원석"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **Oryangin**."
+  bio              : "**Swift, Obj-C, Rust**."
   location         : "South Korea"
   email            :
   links:
