@@ -5,7 +5,11 @@ layout: single
 author_profile: true
 ---
 
-## bobaisthebestwaytodefeatstress.github.io 블로그
+## 최원석의 개발 블로그
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
+내가 심심해서 하는 개발 블로그
+
+주로 Swift에 대해 올라올 예정
+
+많관부 
 
